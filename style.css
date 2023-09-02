@@ -1,0 +1,21 @@
+*{
+    background-color: antiquewhite;
+}
+h1,h2{
+    color: purple;
+    font-style: italic;
+  
+}
+li{
+    color: yellowgreen;
+    font-size:larger;
+    
+
+  
+}
+p{
+    font-size: large;
+    color: blue;
+    
+    
+}
